@@ -6,7 +6,7 @@ body {
   padding: 0px;
   margin: 0px;
   background-color: #f7f7f7;
-  position: relative;
+  /* position: relative; */
   box-sizing: border-box;
   overflow-x: hidden;
 }
@@ -265,7 +265,7 @@ input {
     width: 100%;
     position: absolute;
     z-index: 3;
-    top: 14%;
+    top: 33%;
     left: 0%;
   }
   
