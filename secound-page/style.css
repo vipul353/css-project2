@@ -12,10 +12,12 @@ body {
 }
 
 .main {
-  filter: blur(5px);
+
   position: relative;
   z-index: 1;
-  background-color: #a19f9f;
+
+  opacity: 40%;
+  width: 100%;
   box-sizing: border-box;
   overflow-x: hidden;
 }
